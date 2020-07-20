@@ -1,3 +1,5 @@
+Please click Star or Fork if you like the solution.
+
 
 Hacker Rank SQL problem solutions for Oracle.
 
@@ -208,3 +210,8 @@ Weather Observation Station 7
 Query the list of CITY names ending with vowels (a, e, i, o, u) from STATION. Your result cannot contain duplicates.
 
 select distinct city from station where substr(lower(city),-1) in ('a','e','i','o','u');
+
+Note: Please click Star or Fork if you like the solution.
+
+
+
